@@ -5,7 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b3845c-50d3-4f4b-8b89-6eb274a8f133" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-management" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-DataBinDing/spring-mvc-form-tutorial/src/main/java/com/codegym/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-DataBinDing/spring-mvc-form-tutorial/src/main/java/com/codegym/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-DataBinDing/spring-mvc-form-tutorial/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-DataBinDing/spring-mvc-form-tutorial/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-DataBinDing/spring-mvc-form-tutorial/src/main/webapp/WEB-INF/views/employee/ceate.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-DataBinDing/spring-mvc-form-tutorial/src/main/webapp/WEB-INF/views/employee/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-DataBinDing/spring-mvc-form-tutorial/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/service/CustomerServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/service/impl/SimpleCustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/servlet/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/WEB-INF/app-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/customers/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/customers/list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +81,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-management" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -174,7 +198,11 @@
       <option name="presentableId" value="Default" />
       <updated>1633925456836</updated>
       <workItem from="1633925458728" duration="3458000" />
-      <workItem from="1633934852390" duration="8009000" />
+      <workItem from="1633934852390" duration="8572000" />
+      <workItem from="1633952862341" duration="78000" />
+      <workItem from="1634005671820" duration="11000" />
+      <workItem from="1634009550397" duration="269000" />
+      <workItem from="1634010635650" duration="467000" />
     </task>
     <servers />
   </component>
@@ -191,5 +219,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
