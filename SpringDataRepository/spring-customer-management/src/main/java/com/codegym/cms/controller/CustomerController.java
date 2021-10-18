@@ -97,5 +97,4 @@ public class CustomerController {
         customerService.remove(customer.getId());
         return "redirect:customers";
     }
-
 }

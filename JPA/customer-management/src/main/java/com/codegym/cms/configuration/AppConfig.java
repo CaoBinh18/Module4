@@ -122,6 +122,4 @@ public class AppConfig implements WebMvcConfigurer, ApplicationContextAware {
     public ICustomerService customerService() {
         return new CustomerService();
     }
-
-
 }

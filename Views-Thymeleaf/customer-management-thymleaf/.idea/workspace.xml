@@ -5,26 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b3845c-50d3-4f4b-8b89-6eb274a8f133" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../SpringController/email-validate-maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringController/email-validate-maven/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/service/CustomerServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/service/CustomerServiceFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/service/impl/SimpleCustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/service/impl/SimpleCustomerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/servlet/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/java/cg/wbd/grandemonstration/servlet/CustomerServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/WEB-INF/app-conf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/WEB-INF/app-conf.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/customers/info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/customers/info.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/customers/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt/src/main/webapp/customers/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/java/com/codegym/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/java/com/codegym/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/java/com/codegym/controller/PhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/java/com/codegym/model/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/resources/validation-message.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/java/com/codegym/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/java/com/codegym/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management/src/main/java/com/codegym/cms/configuration/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management/src/main/java/com/codegym/cms/configuration/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/src/main/java/com/codegym/cms/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/src/main/java/com/codegym/cms/controller/CustomerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +86,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -86,7 +96,26 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.53">
+  <component name="RunManager" selected="Gradle.customer-management-thymleaf">
+    <configuration name="customer-management-thymleaf" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/customer-management-thymleaf/customer-management-thymleaf.main/webapp/WEB-INF/views/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -180,6 +209,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.customer-management-thymleaf" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -199,6 +229,8 @@
       <workItem from="1634009550397" duration="269000" />
       <workItem from="1634010635650" duration="467000" />
       <workItem from="1634025866067" duration="631000" />
+      <workItem from="1634447825208" duration="391000" />
+      <workItem from="1634450466036" duration="34000" />
     </task>
     <servers />
   </component>
