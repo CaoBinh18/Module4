@@ -5,37 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b3845c-50d3-4f4b-8b89-6eb274a8f133" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/java/com/codegym/configuration/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/java/com/codegym/configuration/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/java/com/codegym/controller/PhoneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/java/com/codegym/model/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/resources/validation-message.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/custom-phone-validate/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/java/com/codegym/configuration/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/java/com/codegym/configuration/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/java/com/codegym/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Validate/validate-infor-user/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management-stored-procedure/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JPA/customer-management/src/main/java/com/codegym/cms/configuration/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JPA/customer-management/src/main/java/com/codegym/cms/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/service/impl/HibernateCustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/service/impl/SimpleCustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/webapp/WEB-INF/templates/customers/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/webapp/WEB-INF/templates/customers/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APO/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../APO/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringController/email-validate-maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringController/email-validate-maven/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/src/main/java/com/codegym/cms/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/src/main/java/com/codegym/cms/controller/CustomerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +77,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -231,6 +222,7 @@
       <workItem from="1634025866067" duration="631000" />
       <workItem from="1634447825208" duration="391000" />
       <workItem from="1634450466036" duration="34000" />
+      <workItem from="1634692523949" duration="422000" />
     </task>
     <servers />
   </component>

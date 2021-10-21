@@ -48,7 +48,7 @@ public class CustomerController {
     }
 
     @PostMapping("/update")
-    public String update(Customer customer, RedirectAttributes redirect) {
+    public String update(Customer customer, RedirectAttribute   s redirect) {
         customerService.update(customer.getId(), customer);
         redirect.addFlashAttribute("success", "Edit success");
         return "redirect:/customer";

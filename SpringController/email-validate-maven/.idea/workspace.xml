@@ -10,19 +10,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3162f79-6433-4149-80a7-94997b30b3e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/src/main/java/com/codegym/controller/ConvertCurrencyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/src/main/webapp/currency/showForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TongQuanSpringMVC/ConvertCurrency/src/main/webapp/currency/succsess.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/service/impl/HibernateCustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/java/grandemonstration/service/impl/SimpleCustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/webapp/WEB-INF/templates/customers/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APO/customer-managementt/src/main/webapp/WEB-INF/templates/customers/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APO/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../APO/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDataRepository/spring-customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +64,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TongQuanSpringMVC/customer-managemantt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Views-Thymeleaf/customer-management-thymleaf" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -172,6 +178,7 @@
       <workItem from="1634024253155" duration="2400000" />
       <workItem from="1634045119396" duration="597000" />
       <workItem from="1634051351383" duration="34000" />
+      <workItem from="1634692504282" duration="53000" />
     </task>
     <servers />
   </component>
