@@ -74,17 +74,17 @@ public class AppConfig implements WebMvcConfigurer, ApplicationContextAware {
         registry.addInterceptor(interceptor);
     }
 
-    @Bean
-    public LocaleResolver localeResolver() {
-        SessionLocaleResolver localeResolver = new SessionLocaleResolver();
-        localeResolver.setDefaultLocale(new Locale("en"));
-        return localeResolver;
-    }
-
 //    @Bean
 //    public LocaleResolver localeResolver() {
 //        SessionLocaleResolver localeResolver = new SessionLocaleResolver();
-//        localeResolver.setDefaultLocale(new Locale("vi"));
+//        localeResolver.setDefaultLocale(new Locale("en"));
 //        return localeResolver;
 //    }
+
+    @Bean
+    public LocaleResolver localeResolver() {
+        SessionLocaleResolver localeResolver = new SessionLocaleResolver();
+        localeResolver.setDefaultLocale(new Locale("vie"));
+        return localeResolver;
+    }
 }
